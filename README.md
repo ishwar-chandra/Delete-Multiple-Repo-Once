@@ -1,4 +1,4 @@
-# 🧹 GitHub Repo Cleaner
+# 🧹 GitHub Repo Remover
 
 A GUI application for bulk deletion of GitHub repositories with encrypted token storage.
 
